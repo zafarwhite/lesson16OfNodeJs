@@ -18,4 +18,4 @@ var user2 = {
 };
 
 
-module.exports.u = user;
+module.exports = user;
