@@ -1,2 +1,2 @@
-var a = 'Hello from file1';
+var a = 'Hello from file2';
 module.exports = a;
