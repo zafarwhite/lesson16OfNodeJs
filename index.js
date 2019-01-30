@@ -1,3 +1,3 @@
-var a = require('./file1');
+var file1 = require('./file1');
 
-console.log(a);
+console.log(file1);
