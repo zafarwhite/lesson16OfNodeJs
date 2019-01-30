@@ -1,3 +1,3 @@
 var a = 'Hello from file1';
 
-console.log(a);
+module.exports = a;
